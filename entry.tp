@@ -1,0 +1,11 @@
+{
+  "id": "com.clangcodes.voicemeeter",
+  "version": "1.0",
+  "name": "Voicemeeter Banana Status",
+  "main": "plugin.py",
+  "type": "python",
+  "sdk": 4,
+  "description": "Polls Voicemeeter Banana's Strip[0].B1 and reports to Touch Portal.",
+  "developer": "ClangCodes",
+  "homepage": "https://github.com/ClangCodes/TouchPortalVoiceMeeterPlugin"
+}
